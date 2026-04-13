@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/middleware/verifytoken.ts","./src/models/message.ts","./src/models/user.ts","./src/routes/auth.ts"],"version":"5.7.2"}
